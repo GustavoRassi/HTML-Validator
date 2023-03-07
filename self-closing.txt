@@ -1,0 +1,15 @@
+area
+base
+br
+col
+embed
+hr
+iframe
+img
+input
+link
+meta
+source
+template
+track
+wbr
