@@ -1,7 +1,10 @@
 # HTML-Validator
 Program that reads and validate an html file, syntax wise.
-The validator program is <HTMLValidator.cpp>.
-* <self-closing.txt> and <tags.txt> contains the tags used for validation.
+* The validator program:
+  *     HTMLValidator.cpp
+* Files that contain the tags used for validation:
+  *     self-closing.txt
+  *     tags.txt
 # What I Learned
 * Implementation of a stack using a linked list.
 * The basics of HTML.
