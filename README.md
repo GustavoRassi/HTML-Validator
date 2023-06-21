@@ -1,5 +1,5 @@
 # HTML-Validator
-Program that reads and validate an html file, syntax wise.
+Compiler that reads and validate an html file by analyzing the syntax.
 * The validator program:
   *     HTMLValidator.cpp
 * Files that contain the tags used for validation:
